@@ -10,18 +10,18 @@
 
 body {
 	margin: 0;
-	--color-frame-bg: #b23326;
-	--color-text: #fff;
-    --color-bg: #c2392b;
-    --color-link: #000000;
-    --color-link-hover: #fff;
-    --color-menu: #fff;
+	--color-frame-bg: #35529a;
+	--color-text: #d3a968;
+    --color-bg: #35529a;
+    --color-link: #fff;
+    --color-link-hover: #d3a968;
+    --color-menu: #d3a968;
     --color-menu-hover: #000000;
-    --color-menu-deco: #ffffff;
+    --color-menu-deco: #d3a968;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: none;
-    --cursor-fill: #000000;
+    --cursor-fill: #00000000;
     --cursor-stroke-width: 1px;
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
